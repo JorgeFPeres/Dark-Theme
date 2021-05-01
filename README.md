@@ -50,7 +50,7 @@ $ npm start
 
 ## 💻 Project
 
-This is a project inpired in the website **[Overreacted](https://overreacted.io/)**, from **@Dan Abramov**.
+This is a project inspired in the website **[Overreacted](https://overreacted.io/)**, from **@Dan Abramov**.
 
 Visite the site to see a great content of React creat by Dan.
 
