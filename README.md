@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="overreacted" src="public/Logo.svg" width="160px">
+    <img alt="overreacted" src="public/Logo.png" width="160px">
 </h1>
 
 <p align="center">
