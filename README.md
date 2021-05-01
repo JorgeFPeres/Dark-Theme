@@ -52,7 +52,7 @@ $ npm start
 
 This is a project inspired in the website **[Overreacted](https://overreacted.io/)**, from **@Dan Abramov**.
 
-Visite the site to see a great content of React creat by Dan.
+Visite the site to see a great content of React created by Dan.
 
 ## 🔖 Layout
 
